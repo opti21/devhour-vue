@@ -1,6 +1,6 @@
 # Devhour Podcast
 
-Website for Devhour podcast ran by [ThePrimeagen}](https://twitch.tv/ThePrimeagen)
+Website for Devhour podcast ran by [ThePrimeagen](https://twitch.tv/ThePrimeagen)
 
 ## Project Setup
 
