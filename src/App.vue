@@ -28,6 +28,17 @@ splitbee.init();
     <h1>PODCAST</h1>
     <br />
     <YoutubeVideo ytURL="https://www.youtube.com/embed/6Ab6ka_MKJ4" />
+    <br />
     <YoutubeVideo ytURL="https://www.youtube.com/embed/pvBHyip4peo" />
   </div>
 </template>
+
+<style>
+body {
+  background-color: black;
+}
+
+h1 {
+  color: white;
+}
+</style>
